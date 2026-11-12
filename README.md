@@ -1,46 +1,64 @@
-# Hi, I'm Roberto Gutiérrez 👋
+# Hi there, I'm Roberto! 👋
 
-### Software Engineer | Backend Development | Cloud & Distributed Systems
+### Software Engineer | Backend & Cloud Technologies | Always Learning
 
-I'm a software engineer with experience building backend services, RESTful APIs, and enterprise applications.
+I'm a **Software Engineer based in Mexico 🇲🇽**, passionate about building reliable, scalable, and maintainable software.
 
-My primary focus is **Java and Spring Boot**, with a strong interest in software architecture, distributed systems, cloud technologies, and data engineering.
+My background spans **backend and full-stack development**, with extensive experience in Java, Spring Boot, REST APIs, and enterprise applications.
 
-I enjoy solving complex problems, designing maintainable systems, and continuously exploring new technologies.
+I enjoy exploring different technologies, understanding how systems work, and finding practical solutions to complex engineering challenges.
 
-### 🛠️ Tech Stack
+Beyond my core experience, I'm expanding my skills in **Python, data engineering, cloud-native development, and AI-assisted software engineering**.
+
+## 🛠️ Technologies & Tools
 
 **Languages**
-- Java (8, 17, 21), Python, JavaScript, TypeScript, SQL
+
+Java · Python · TypeScript · JavaScript · SQL
 
 **Backend & Frameworks**
-- Spring Boot, Spring Data JPA, Hibernate, REST APIs, Microservices, Node.js
+
+Spring Boot · Spring Data JPA · Hibernate · Node.js · REST APIs · Microservices
+
+**Frontend**
+
+React · HTML · CSS
 
 **Databases & Messaging**
-- PostgreSQL, Oracle, MongoDB, Redis, Apache Kafka, AWS SQS
+
+PostgreSQL · Oracle · MongoDB · Redis · Apache Kafka · AWS SQS
 
 **Cloud & DevOps**
-- AWS, Docker, Kubernetes, Git, CI/CD
 
-**Testing & Tools**
-- JUnit 5, Mockito, Gradle, Maven, Postman
+AWS · Docker · Kubernetes · Git · CI/CD
 
-### 🚀 What I'm Working On
+**Testing & Build Tools**
 
-- Improving my knowledge of **Python backend development** and data engineering.
-- Exploring **AI-assisted software development** and agentic workflows.
-- Deepening my understanding of cloud-native architectures and distributed systems.
-- Building and improving personal projects.
+JUnit 5 · Mockito · Gradle · Maven · Postman
 
-### 🌱 Areas of Interest
+## 🚀 Currently Exploring
 
-`Software Architecture` · `Distributed Systems` · `Cloud Computing` · `Data Engineering` · `AI Engineering`
+- **Python & Data Engineering:** Data pipelines and modern data processing technologies.
+- **Cloud & Distributed Systems:** Scalable, resilient, cloud-native applications.
+- **AI Engineering:** AI agents, developer tools, and AI-assisted workflows.
+- **Software Architecture:** Modular design, maintainability, and engineering best practices.
 
-### 📫 Connect With Me
+## 💡 What Drives Me
 
-- **GitHub:** [@robergut](https://github.com/robergut)
-- **Location:** Mexico 🇲🇽
+I believe good software engineering is about more than writing code. It's about understanding problems, making thoughtful design decisions, and building solutions that are useful, reliable, and easy to maintain.
+
+I'm naturally curious and enjoy learning from different domains, technologies, and people.
+
+## 🌎 Beyond Coding
+
+When I'm not programming, you'll probably find me cycling, traveling, or discovering new places.
+
+## 📫 Let's Connect
+
+- 💼 **LinkedIn:** [linkedin.com/in/robergut](https://www.linkedin.com/in/robergut/)
+- 💻 **GitHub:** [github.com/robergut](https://github.com/robergut)
+- 📍 **Location:** Mexico 🇲🇽
 
 ---
 
-*Always learning, building, and improving.*
+*Keep learning. Keep building. Stay curious.*
